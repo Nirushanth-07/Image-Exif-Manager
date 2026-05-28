@@ -13,7 +13,7 @@ A lightweight, powerful command-line interface (CLI) tool written in Python to m
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Nirushanth-07/Image-Exif-Manager.git](https://github.com/Nirushanth-07/Image-Exif-Manager.git)
+   git clone https://github.com/Nirushanth-07/Image-Exif-Manager.git
    ```
    ```bash
    cd Image-Exif-Manager
