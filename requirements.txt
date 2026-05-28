@@ -1,0 +1,5 @@
+# Image metadata management
+exif==1.6.0
+
+# Image processing and handling
+Pillow==11.1.0
